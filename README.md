@@ -29,9 +29,9 @@
   <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5561981292929" target="_blank">
+<!--a href="https://api.whatsapp.com/send?phone=5561981292929" target="_blank">
   <code><img alt="Whatsapp" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /></code>
-</a>
+</a-->
 
 <br/><br/>
 
